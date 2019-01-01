@@ -12,7 +12,7 @@ import android.util.Log;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
-import com.meng.coolweather.R;
+import com.meng.coolweather.android.R;
 import com.meng.coolweather.android.WeatherActivity;
 import com.meng.coolweather.android.gson.Weather;
 import com.meng.coolweather.android.util.HttpUtil;
