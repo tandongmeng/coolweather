@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
+import com.meng.coolweather.R;
 import com.meng.coolweather.android.db.City;
 import com.meng.coolweather.android.db.County;
 import com.meng.coolweather.android.db.Province;
